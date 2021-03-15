@@ -47,7 +47,7 @@ var res = MessagePackSerializer.Deserialize<Instant>(bin);
 
 ## Usage
 ### Supported NodaTime types
- `Insant`, `LocalTime`,  `LocalDate`,  `LocalDateTime`,`Offset`, `OffsetDateTime`, `Period` and `ZonedDateTime`
+ `Instant`, `LocalTime`,  `LocalDate`,  `LocalDateTime`,`Offset`, `OffsetDateTime`, `Period` and `ZonedDateTime`
 
 ### Timestamps
 #### Serialization
